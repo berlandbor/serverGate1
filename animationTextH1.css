@@ -1,0 +1,16 @@
+@keyframes colorChange {
+    0% { color: #ADD8E6 ; }
+    25% { color:  #1E90FF; }
+    50% { color: #000080; }
+    75% { color: #1E90FF; }
+    100% { color: #ADD8E6; }
+    
+}
+
+#animated-text {
+    font-size: 3em;
+    text-align: center;
+    margin-top: 20%;
+    animation: colorChange 5s infinite;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Настройки тени */
+}

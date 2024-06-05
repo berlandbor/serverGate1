@@ -1,1 +1,1 @@
-https://berlandbor.github.io/serverGate/
+https://berlandbor.github.io/serverGate1/
